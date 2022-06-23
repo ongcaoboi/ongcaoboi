@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1>Hi 👋, I'm Tuan Anh</h1>
 <h3 >A passionate developer from Vietnam </h3>
 
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=ongcaoboi&theme=cobalt2&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ongcaoboi&langs_count=10&layout=compact)
+-->
